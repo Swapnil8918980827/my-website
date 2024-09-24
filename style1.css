@@ -1,0 +1,12 @@
+.card{
+    text-align: center;
+    -webkit-box-shadow: 2px 2px 2px 2px #4AFF80;
+    box-shadow: 2px 2px 2px 2px #4AFF80;
+    margin-bottom: 30px;
+    background-color:#ddd;
+    padding: 20px;
+}
+.card:hover{
+    -webkit-box-shadow: 4px 4px 4px 4px #206E37;
+    box-shadow: 4px 4px 4px 4px #206E37;
+}
